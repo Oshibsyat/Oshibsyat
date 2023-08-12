@@ -7,7 +7,6 @@
     </head>
 <body>
     <h2>Quem sou eu?</h2>
-    <img src="imagens/meuperfil.png" alt="foto_perfil">
         <p> Sou um adolescente de 15 anos que sonha em ser um developer. Daqui há algum tempo irei fazer minha prova do curso de HTML5 e CSS. Espero passar e conseguir o meu certificado. Isso é quase um sonho pra mim! Esse sonho começa quando eu tinha meus 10 anos e andava vendo aqueles jogos na internet. Eu pensava comigo mesmo: "Como será que eles fazem esses games? Deve ser muito difícil..." Até que comecei a aprender HTML e Python, mas pera que é só o começo. Vamos ver qual será meu nível de habilidade na programação e desenvolvimento daqui um tempinho.</p>
     <h2>Como me encontrar?</h2>
             <pre center>
