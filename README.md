@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Oshibsyat
+<ul type="circle">
+  <li>Olá! Sou Miguel.</li>
+<ul>- 👋 Hi, I’m @Oshibsyat
 - 👀 I’m interested in work with front-end
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on ...
