@@ -10,8 +10,8 @@
  <h2>Como encontrar-me?</h2>
  <ul type="circle">
      <li><a href="https://www.youtube.com/channel/UCEcSHF7PoMFRDoMAhtrF1Lw" target="_blank" rel="external">/azevedo</a>Meu canal no youtube</li><br>
-     <li><a href="https://www.linkedin.com/in/miguel-azevedo-8b3ab3286/">/miguelazevedo</a>Meu perfil no LinkedIn</li><br>
-     <li><a href="https://www.instagram.com/ooazevdo/">/ooazevdo</a>Meu perfil no Instagram</li>
+     <li><a href="https://www.linkedin.com/in/miguel-azevedo-8b3ab3286/" target="_blank" rel="external">/miguelazevedo</a>Meu perfil no LinkedIn</li><br>
+     <li><a href="https://www.instagram.com/ooazevdo/" target="_blank" rel="external">/ooazevdo</a>Meu perfil no Instagram</li>
  </ul>
 <!---
 Não tenha medo do caminho, tenha medo de não caminhar.
